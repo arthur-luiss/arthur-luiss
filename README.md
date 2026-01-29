@@ -2,8 +2,7 @@
 
   **`Desenvolvedor`**
 
-Me chamo Arthur Luis e atualmente curso Ciências da Computação na Estácio, dando meus primeiros passos como desenvolvedor. Desde cedo sou apaixonado por tecnologia, inovação e desafios, e isso me motiva a buscar constantemente novos conhecimentos e a aprimorar minhas habilidades técnicas.
-Neste início de carreira, tenho me dedicado a construir uma base sólida em desenvolvimento web, programação e boas práticas, colocando em prática o que aprendo por meio de projetos pessoais e estudos diários. Cada novo código é uma oportunidade de crescimento e de experimentar soluções criativas para problemas reais.
+Me chamo Arthur Luis e atualmente curso Ciências da Computação na Estácio, dando meus primeiros passos como desenvolvedor. Desde cedo sou apaixonado por tecnologia, inovação e desafios, e isso me motiva a buscar constantemente novos conhecimentos e a aprimorar minhas habilidades técnicas. Cada novo código é uma oportunidade de crescimento e de experimentar soluções criativas para problemas reais.
 Estou sempre aberto a novas conexões, oportunidades e parcerias que me permitam expandir minha visão e agregar valor ao ambiente em que atuo.
 
 ---
