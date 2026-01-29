@@ -28,8 +28,8 @@ Estou sempre aberto a novas conexões, oportunidades e parcerias que me permitam
 />
 <img
     align="left"
-    alt="CSS" 
-    title="CSS"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
