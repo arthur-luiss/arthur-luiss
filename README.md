@@ -58,13 +58,13 @@ Estou sempre aberto a novas conexões, oportunidades e parcerias que me permitam
 <img 
     align="left"
     src="https://github-readme-stats-one.vercel.app/api?username=arthur-luiss&show_icons=true&theme=highcontrast&incluide_all_comits=true&locale=pt-br" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;"
     alt="GitHub Stats" 
 />
 <img 
     align="left"
     src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=arthur-luiss&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="200" 
+    height="150" 
     alt="GitHub Stats" 
 />
